@@ -9,3 +9,8 @@ This approach uses the memory of previous users interactions to compute users si
 A typical example of this approach is User Neighbourhood-based CF, in which the top-N similar users (usually computed using Pearson correlation) for a user are selected and used to recommend items those similar users liked, but the current user have not interacted yet. This approach is very simple to implement, but usually do not scale well for many users.
 Model-based
 In this approach, models are developed using different machine learning algorithms to recommend items to users. There are many model-based CF algorithms, like Neural Networks, Bayesian Networks, Clustering Techniques, and Latent Factor Models such as Singular Value Decomposition (SVD) and Probabilistic Latent Semantic Analysis.
+
+
+
+
+https://drive.google.com/drive/folders/143MNW4Z6qdpApbpaPph9Xy0i4OS4fUCE
